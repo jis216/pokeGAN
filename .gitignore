@@ -1,2 +1,5 @@
 *_checkpoints/*
 data/pokemon/*/
+data/celeba/
+param/*
+c_gen_images/
